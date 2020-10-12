@@ -1,0 +1,19 @@
+
+*{
+	size:20px;
+}
+	
+h1{
+	font:bold 40px comic sans;
+	color:green;
+	}
+#error{
+	font:bold 20px comic sans;
+	color:red;
+	text-align:center;
+}
+#form{
+	font:bold 16px comic sans;
+	width:80%;
+	
+}
